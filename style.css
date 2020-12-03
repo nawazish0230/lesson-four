@@ -48,3 +48,18 @@
   color: red;
   font-weight: bold;
 }
+@media (max-width: 480px) {
+  .container {
+    width: 90%;
+  }
+  .input-style {
+    width: 90%;
+  }
+  .footer {
+    padding: 1rem 5%;
+  }
+  .translate-style {
+    margin-bottom: 90%;
+    width: 90%;
+  }
+}
